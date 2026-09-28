@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Khalid Al-Mansoor",
+    "company": "Al-Mansoor Logistics LLC",
+    "email": "khalid@mansoorlogistics.ae",
+    "phone": "+971501234567",
+    "industry": "Supply Chain & Freight Forwarding",
+    "problemDescription": "Manual customs clearance paper processing takes 48 hours per container consignment.",
+    "aiRequirement": "Automated OCR & customs document extraction pipeline",
+    "source": "consultation-form",
+    "utmSource": "direct",
+    "id": "lead_1789617938515_xh2u05",
+    "createdAt": "2026-09-17T04:05:38.515Z",
+    "ipAddress": "::1",
+    "userAgent": "Python-urllib/3.14",
+    "status": "NEW"
+  }
+]
